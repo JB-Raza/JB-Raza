@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JB-Raza
 - 👀 I’m interested in MERN stack web development
-- 🌱 After completing Express, Mongo and Node, I’m currently learning React
+- 🌱 I have learned MERN stack and currently building projects using these technologies.
 - 💞️ I’m looking to collaborate on all kinds of projects
 - 📫 How to reach me : whatsapp: 0319-0237887
 
